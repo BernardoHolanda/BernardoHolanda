@@ -1,6 +1,6 @@
 # Olá, eu sou o Bernardo Holanda 👋
 
-🎓 Estudante de **Sistemas de Informação** na **UEA (Universidade do Estado do Amazonas)** — formação prevista para **2029/2**
+🎓 Estudante de **Sistemas de Informação** na **UEA - EST (Universidade do Estado do Amazonas - Escola Superior de Tecnologia)** — formação prevista para **2029/2**
 
 💻 Foco em desenvolvimento **Full Stack**, com experiência prática em:
 
