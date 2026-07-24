@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Bernardo Holanda 👋
 
-<!--
-**BernardoHolanda/BernardoHolanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** na **UEA (Universidade do Estado do Amazonas)** — formação prevista para **2029/2**
 
-Here are some ideas to get you started:
+💻 Foco em desenvolvimento **Full Stack**, com experiência prática em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Python, FastAPI, SQLAlchemy, Alembic, Docker
+- **Frontend:** Vue 3, TypeScript, Vite
+
+📍 Manaus, Brasil
+
+---
+
+### 🚀 Projetos em destaque
+
+- **[daetec-api](https://github.com/BernardoHolanda/daetec-api)** — Backend de um sistema de vendas (produtos, vendas à vista/fiado, contas e relatório diário)
+- **[daetec-frontend](https://github.com/BernardoHolanda/daetec-frontend)** — Frontend web do DAETEC, consumindo a daetec-api
+- **[Projeto-Nexus](https://github.com/BernardoHolanda/Projeto-Nexus)** — Projeto em Python
+
+---
+
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+---
+
+### 📫 Contato
+
+### 📬 Contact
+
+- GitHub: [BernardoHolanda](https://github.com/BernardoHolanda)
+- Email: bernardoholada@gmail.com
