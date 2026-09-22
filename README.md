@@ -31,7 +31,5 @@
 
 ### 📫 Contato
 
-### 📬 Contact
-
 - GitHub: [BernardoHolanda](https://github.com/BernardoHolanda)
 - Email: bernardoholada@gmail.com
