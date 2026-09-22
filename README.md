@@ -33,11 +33,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/Clewertton/Clewertton/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph.svg">
-  <img alt="Galaga jogando sobre o meu gráfico de contribuições"
-       src="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph.svg">
+          srcset="https://raw.githubusercontent.com/Clewertton/Clewertton/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/Clewertton/Clewertton/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ---
