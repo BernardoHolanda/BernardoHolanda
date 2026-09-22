@@ -29,6 +29,19 @@
 
 ---
 
+### 🎮 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph.svg">
+  <img alt="Galaga jogando sobre o meu gráfico de contribuições"
+       src="https://raw.githubusercontent.com/BernardoHolanda/BernardoHolanda/arcade-output/galaga-contribution-graph.svg">
+</picture>
+
+---
+
 ### 📫 Contato
 
 - GitHub: [BernardoHolanda](https://github.com/BernardoHolanda)
